@@ -7,6 +7,7 @@ URL:		https://pypi.org/project/platformdirs/
 License:	GPL
 Group:		Development/Python
 BuildRequires:	python3dist(build)
+BuildRequires:	python3dist(hatchling)
 BuildRequires:	python-pip
 BuildArch:	noarch
 
