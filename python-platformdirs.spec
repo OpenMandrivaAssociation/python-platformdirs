@@ -1,5 +1,5 @@
 Name:		python-platformdirs
-Version:	4.3.2
+Version:	4.3.6
 Release:	1
 Source0:	https://files.pythonhosted.org/packages/source/p/platformdirs/platformdirs-%{version}.tar.gz
 Summary:	A small Python module for determining appropriate platform-specific dirs, e.g. a user data dir.
