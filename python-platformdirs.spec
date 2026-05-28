@@ -2,7 +2,7 @@
 
 Name:		python-platformdirs
 Summary:	Module for determining appropriate platform-specific dirs
-Version:	4.9.6
+Version:	4.10.0
 Release:	1
 License:	MIT
 Group:		Development/Python
